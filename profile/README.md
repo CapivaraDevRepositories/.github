@@ -15,7 +15,7 @@ Fomentar um ambiente colaborativo e inclusivo, onde estudantes e profissionais p
 
 Estamos focados no desenvolvimento de habilidades práticas nas seguintes tecnologias:
 
-- **C#**  
+- **C#** ![https://img.shields.io/npm/v/programming-languages-logos.svg?logo=cs](https://abrudz.github.io/logos/JS.svg)
 - **JavaScript**  
 - **ReactJS**  
 - **NodeJS**  
